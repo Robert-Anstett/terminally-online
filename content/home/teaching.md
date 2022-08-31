@@ -21,8 +21,7 @@ weight = 57
 
 _[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
 
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Fall 2021
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Spring 2021
-+ State Government, POLSC 2100 - Instructor _(lab)_, Fall 2020
-+ Strategy and Warfare, POLSC 4412 - Teaching Assistant, Spring 2020
-+ American National Government, POLSC 1100 - Teaching Assistant, Fall 2019
++ 
++ 
++ St
++ American 
