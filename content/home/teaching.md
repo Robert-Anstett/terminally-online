@@ -21,7 +21,19 @@ weight = 57
 
 _[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
 
-+ 
-+ 
-+ St
-+ American 
+_Instructor_
++ American Government, POLSC 1100, Summer 2023
++ Comparative State Politics, POLSC 4310, Fall 2023
+
+_Lab Instructor_
++ American Government, POLSC 1100, Fall 2022
++ State Politics, POLSC 2100, Fall 2021
+
+_Teaching Assistant_
++ American Government, POLSC 1100, 
++ Congress and Legislative Policy, POLSC4140, 
++ State Government; POLSC 2100,
++ American Government, POLSC 1100,
++ Politics and Hollywood, POLSC4180,
++ American Government Lead TA, POLSC 1100,
++ Law, Policy, and Regulation, POLSC4370,
