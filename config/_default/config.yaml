@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Robert Anstett # Website name
-baseurl: 'https://jacob-authement.netlify.app' # Website URL
+baseurl: 'https://robertanstett.netlify.app/' # Website URL
 copyright: '© {year} Robert Anstett' # Footer text, e.g. '© {year} Me'
 
 ############################
