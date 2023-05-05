@@ -20,7 +20,6 @@ bio: Interested in American States and Political Parties
 interests:
 - State Legislatures
 - Political Parties
-- League of Legends
 
 # Education to show in About widget
 education:
