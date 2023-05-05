@@ -72,4 +72,3 @@ I am a political science PhD student at the [Harry S Truman School of Government
 
 You can download my Curriculum Vitae {{< staticref "Anstett_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-When I'm not working, I 
