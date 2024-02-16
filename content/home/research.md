@@ -12,7 +12,7 @@ title = "Research"
 
 
 # Order that this section will appear in.
-weight = 20
+weight = 58
 
 # To add the link to the search function, remove this line, uncomment the following line, and move it to line 26.
 # For a full list of my research, use the search feature [here](https://www.jacobauthement.com/publication).
