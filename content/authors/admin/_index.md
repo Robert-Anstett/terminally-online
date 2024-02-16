@@ -6,7 +6,7 @@ title: Robert Anstett
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Student
+role: Political Science PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,8 +18,9 @@ bio: Interested in American States and Political Parties
 
 # Interests to show in About widget
 interests:
-- State Legislatures
+- American Political Institutions
 - Political Parties
+- State Politics
 
 # Education to show in About widget
 education:
@@ -67,8 +68,9 @@ highlight_name: false
 ---
 
 Hello!
+
 I am Robert Anstett, a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
 
-You can download my Curriculum Vitae {{< staticref "Anstett_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "Anstett_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
 I grew up in Wilkes-Barre, Pennsylvania and attended undergrad at Kutztown University of Pennsylvania, receiving my BA in Political Science with minors in Secondary Education and History. If I’m not reading about politics, I am either playing video games, redistricting states on [Dave's Redistricting](https://davesredistricting.org/maps#home) or mindlessly scrolling through TikTok or Twitter (Or X...). 
