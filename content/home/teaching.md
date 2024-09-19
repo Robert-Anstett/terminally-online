@@ -22,6 +22,7 @@ weight = 57
 _[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
 
 _Instructor of Record_
++ Comparative Political Systems, POL_SC 2700, Summer 2024
 + Political Parties and Election Campaigns, POL_SC 4100, Spring 2024
 + Comparative State Politics, POL_SC 4310, Fall 2023
 + American Government, POL_SC 1100, Summer 2023
