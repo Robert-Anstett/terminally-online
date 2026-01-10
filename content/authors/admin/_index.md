@@ -69,7 +69,7 @@ highlight_name: false
 
 Hello!
 
-I am Robert Anstett, a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
+I am Dr. Robert Anstett, a recent political scientist graduate from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri and current Visiting Assistant Professor at LVC. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
 
 You can download my CV {{< staticref "Anstett_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
