@@ -17,6 +17,17 @@ weight = 57
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
+<h2>Lebanon Valley College</h2>
+
+_Visiting Assistant Professor_
+
++ American Politics and Government, POL_110, Fall 2025
++ International Relations, POL_245, Fall 2025
++ Constitution, Presidency, and Congress, POL_215, Fall 2025
++ Law and Liberty, LAW_150, Fall 2025
++ Legal Systems and Methods, LAW_200, Spring 2026
++ Public Law, LAW_220, Spring 2026
++ Criminal Law, LAW_250, Spring 2026
 <h2>University of Missouri</h2>
 
 _[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
