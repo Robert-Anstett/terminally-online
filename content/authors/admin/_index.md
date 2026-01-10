@@ -6,15 +6,16 @@ title: Robert Anstett
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: Political Science PhD and Visiting Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Missouri
+- name: Lebanon Valley College
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in American States and Political Parties
+bio: Interested in American States, Congress, and Political Parties
 
 # Interests to show in About widget
 interests:
@@ -27,7 +28,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2025 (expected)
+    year: 2025 
   - course: BA in Political Science
     institution: Kutztown University of Pennsylvania
     year: 2020
@@ -39,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:raafdd@mail.missouri.edu'
+  link: 'mailto:robertanstett1@gmail.com'
 # icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/Jacob_Authement
@@ -71,6 +72,6 @@ Hello!
 
 I am Dr. Robert Anstett, a recent political scientist graduate from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri and current Visiting Assistant Professor at LVC. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
 
-You can download my CV {{< staticref "Anstett_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "Anstett__CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
 I grew up in Wilkes-Barre, Pennsylvania and attended undergrad at Kutztown University of Pennsylvania, receiving my BA in Political Science with minors in Secondary Education and History. If I’m not reading about politics, I am either playing video games, redistricting states on [Dave's Redistricting](https://davesredistricting.org/maps#home) or mindlessly scrolling through TikTok or Twitter (Or X...). 
