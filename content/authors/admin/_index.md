@@ -6,16 +6,16 @@ title: Robert Anstett
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD and Visiting Assistant Professor
+role: Political Science PhD and Professorial Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Missouri
-- name: Lebanon Valley College
+- name: American University
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in American States, Congress, and Political Parties
+bio: Interested in American States, Congress, State Legislatures, Elections, and Political Parties
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,8 @@ highlight_name: false
 
 Hello!
 
-I am Dr. Robert Anstett, a recent political scientist graduate from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri and current Visiting Assistant Professor at LVC. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
+I am Dr. Robert Anstett, a recent political scientist graduate from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri and Professorial Lecturer at American University. My interests include American politics, American institutions, political parties, state legislatures, interest groups, campaigns, elections, and comparative politics. My dissertation work focuses on the underexplored relationship between state political party institutions and their interactions with voters, state legislatures, and policy outcomes.
 
-You can download my CV {{< staticref "Anstett__CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "Anstett_R_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
 I grew up in Wilkes-Barre, Pennsylvania and attended undergrad at Kutztown University of Pennsylvania, receiving my BA in Political Science with minors in Secondary Education and History. If I’m not reading about politics, I am either playing video games, redistricting states on [Dave's Redistricting](https://davesredistricting.org/maps#home) or mindlessly scrolling through TikTok or Twitter (Or X...). 
