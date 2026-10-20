@@ -17,6 +17,13 @@ weight = 57
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
+<h2>American University</h2>
+
+_Professorial Lecturer_
++ American Government, GOVT 110, Spring 2027
++ Introduction to Political Research, GOVT 310, Fall 2026 and Spring 2027
++ Elections and Voting Behavior, GOVT 315, Fall 2026 (x2), Spring 2027
+  
 <h2>Lebanon Valley College</h2>
 
 _Visiting Assistant Professor_
