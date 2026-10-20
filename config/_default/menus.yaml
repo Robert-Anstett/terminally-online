@@ -20,5 +20,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Curriculum Vitae
-    url: https://robert-anstett.com/Anstett_CV.pdf
+    url: https://robert-anstett.com/Anstett_R_CV.pdf
     weight: 70
